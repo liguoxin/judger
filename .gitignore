@@ -1,0 +1,6 @@
+.idea/
+.idea/workspace.*
+*.iml
+*.log
+target
+.idea
